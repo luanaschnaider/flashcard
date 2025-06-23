@@ -1,0 +1,10 @@
+body {
+background-color: rgb(164, 176, 232);
+}
+footer {
+background-color: rgb(166, 215, 246);
+color: white;
+bottom:0;
+position:fixed;
+width:100%;
+}
