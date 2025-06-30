@@ -18,6 +18,10 @@ flex-basis: calc(33% -6rem);
 background-color: rgb(13, 39, 38);
 text-align: left;
 padding: 0.5rem;
+position: absolute;
+margin: 0.6rem;
+border-radius: 0.6rem;
+font-size: 1vw;
 }
 
 footer {
