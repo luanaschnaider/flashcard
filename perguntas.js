@@ -1,8 +1,8 @@
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'geografia',
+    'qual monumento famoso por sua inclinação?',
+    'A torre de pisa'
 )
 
 criaCartao(
@@ -12,7 +12,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'geografia',
     'Qual é o nome do rio que faz fronteira com o Paraguai no Paraná?',
     'Rio Paraná.'
 )
